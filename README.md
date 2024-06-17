@@ -7,10 +7,10 @@ Aqui você vai encontrar em forma de video um avatar elaborado pela minha pessoa
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
 
-- [ChatGPT](https://chatgpt.com/)
-- [ElevenLabs](https://elevenlabs.io/)
-- [HeyGen](https://app.heygen.com/home)
-- [CapCut](https://www.capcut.com/pt-br/)
+- IA GENERATIVA ** [ChatGPT](https://chatgpt.com/) ** Para roteirização e revisão;
+- IA GENERATIVA ** [ElevenLabs](https://elevenlabs.io/) ** Para sintetização de audio
+- IA GENERATIVA ** [HeyGen](https://app.heygen.com/home) ** Para geração de Avatar virtual
+- Software   ** [CapCut](https://www.capcut.com/pt-br/) ** Para edição de video e som
                                     
 
 ## 🧐 Processo de Criação
