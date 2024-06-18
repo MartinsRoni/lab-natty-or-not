@@ -18,6 +18,7 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "ElevenLabs" par
 
 ## 🚀 Resultados
 <a href="https://github.com/MartinsRoni/lab-natty-or-not/blob/main/output/Avatar-editado.mp4" title="View PDF now"> 📕Clique aqui para acessar
+*OBS: Clicar em "Ver bruto" para fazer download do arquivo mp4
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
