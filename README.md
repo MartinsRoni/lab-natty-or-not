@@ -17,7 +17,7 @@ Aqui você vai encontrar em forma de video um avatar elaborado pela minha pessoa
 Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "ElevenLabs" para fazer uma dublagem sintetizada do roteiro gerado anteriormente. O "HeyGen" foi essencial para criar um avatar virtual, trazendo uma dimensão futurística ao vídeo. E a montagem e edição foram realizadas no "CapCut" para garantir qualidade profissional.
 
 ## 🚀 Resultados
-<a href="https://github.com/MartinsRoni/podcast-com-ia/tree/main/output" title="View PDF now"> 📕Clique aqui para acessar
+<a href="https://github.com/MartinsRoni/lab-natty-or-not/blob/main/output/Avatar-editado.mp4" title="View PDF now"> 📕Clique aqui para acessar
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
