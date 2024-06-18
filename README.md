@@ -1,4 +1,4 @@
-# Título do Projeto Extremamente Aesthetic ;)
+#  Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
 Oque temos aqui, é uma pequena demostração, de como podemos fazer coisas incriveis com IAs.
@@ -22,17 +22,8 @@ Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "ElevenLabs" par
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 
+Este projeto foi algo sensacional e essencial para nos mostrar vários potênciais desta tecnologia tão cativante e incrivel que é a Inteligência Artificial, o quão pode nos ajudar e nos dar insights nas nossas tarefas do dia a dia e em processos criativos.
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
